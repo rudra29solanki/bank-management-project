@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+C:\Users\Rudra Solanki\.claude/
+.DS_Store
+Thumbs.db
